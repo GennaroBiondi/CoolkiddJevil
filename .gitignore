@@ -1,1 +1,4 @@
+# Copyrighted game data - don't push
 *.win
+mus/*.ogg
+lang/lang_ja.json
